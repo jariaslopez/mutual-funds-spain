@@ -11,7 +11,7 @@ https://welcome-am.com/index.php/portfolio-item/wam-global-allocation-fi/
 23/06/1992
 
 # Minimum Investment
-1 Million EUR
+1 000 000
 
 # Assessment
 * Average performance except 1119% in 2021
