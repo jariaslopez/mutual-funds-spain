@@ -11,7 +11,7 @@ https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B7W3NL79:USD
 18/04/2012
 
 # Minimum Investment
-2 119
+0
 
 # Other
 * -22.65% in 2022
