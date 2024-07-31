@@ -13,5 +13,5 @@
 # Minimum Investment
 
 
-# Assessment
+# Other
 * 
