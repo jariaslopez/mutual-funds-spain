@@ -11,5 +11,5 @@ https://welcome-am.com/index.php/portfolio-item/wam-global-allocation-fi/
 1 Million EUR
 
 # Assessment
-* Average performance
-* Low quality investments
+* Average performance except for 2021 that was 1119%
+* According to the CNMV, potentially very high credit risk
