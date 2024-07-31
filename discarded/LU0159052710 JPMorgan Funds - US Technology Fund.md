@@ -13,6 +13,6 @@ https://am.jpmorgan.com/es/es/asset-management/per/products/jpm-us-technology-a-
 # Minimum Investment
 35 000
 
-# Assessment
+# Other
 * -41.49% in 2022
-* 5% Initial charge
+* 5% Initial Fee

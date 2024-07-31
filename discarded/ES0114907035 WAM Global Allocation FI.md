@@ -13,6 +13,6 @@ https://welcome-am.com/index.php/portfolio-item/wam-global-allocation-fi/
 # Minimum Investment
 1 000 000
 
-# Assessment
+# Other
 * Average performance except 1119% in 2021
 * According to the CNMV, potentially very high credit risk

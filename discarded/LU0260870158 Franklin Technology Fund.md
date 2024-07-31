@@ -13,6 +13,6 @@ https://www.franklintempleton.com.es/fondos/rentabilidades-y-valor-liquidativo/f
 # Minimum Investment
 1 000
 
-# Assessment
+# Other
 * -40,89% in 2022
-* 5.75% Initial charge
+* 5.75% Initial Fee
