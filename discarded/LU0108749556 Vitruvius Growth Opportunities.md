@@ -11,7 +11,7 @@ NA
 07/03/2000
 
 # Minimum Investment
-2955
+2 955
 
 # Other
 * -29.64% in 2022
