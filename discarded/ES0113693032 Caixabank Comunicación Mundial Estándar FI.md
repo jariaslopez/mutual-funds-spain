@@ -14,4 +14,4 @@ https://www.caixabankassetmanagement.com/en/caixabank-comunicacion-mundial-fi-cl
 508
 
 # Other
-* -27.97% in 2022
+* -23.88% in 2022
