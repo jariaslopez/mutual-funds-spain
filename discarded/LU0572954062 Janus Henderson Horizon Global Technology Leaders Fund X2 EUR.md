@@ -5,7 +5,7 @@ LU0572954062
 Janus Henderson Horizon Global Technology Leaders Fund X2 EUR
 
 # Website
-NA
+https://markets.ft.com/data/funds/tearsheet/summary?s=lu0572954062:eur
 
 # Inception
 19/10/2007

@@ -5,13 +5,13 @@ LU0302296495
 DNB Fund - Technology
 
 # Website
-16/08/2007
+https://markets.ft.com/data/funds/tearsheet/summary?s=lu0302296495:eur
 
 # Inception
-NA
+16/08/2007
 
 # Minimum Investment
-NA
+0
 
 # Other
 * -17.1% in 2022
