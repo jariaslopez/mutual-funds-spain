@@ -5,13 +5,13 @@ IE00B3WVRB16
 Polar Capital Funds PLC - Biotechnology Fund I Inc
 
 # Website
-https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B42Z4531:USD
+https://www.ebnbanco.com/fondos-inversion/polar-capital-biotechnology-i-eur-ie00b3wvrb16/
 
 # Inception
 31/10/2013
 
 # Minimum Investment
-791 080
+2 500
 
 # Other
 * 5% Initial Fee
