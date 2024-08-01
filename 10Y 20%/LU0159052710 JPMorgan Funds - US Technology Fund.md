@@ -1,5 +1,5 @@
 # ISIN
-ES0114907035
+LU0159052710
 
 # Denomination
 JPMorgan Funds - US Technology Fund
